@@ -1,0 +1,3 @@
+@echo off
+cd "C:/Users/HRD/jeevan"
+"C:\Users\HRD\jeevan\anaconda3\Scripts\streamlit.exe" run amutham.py
