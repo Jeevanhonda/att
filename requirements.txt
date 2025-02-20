@@ -1,0 +1,16 @@
+streamlit
+streamlit_option_menu
+pandas
+numpy
+chardet
+fpdf
+pywhatkit
+calendar
+datetime
+sqlite3
+os
+shutil
+pytz
+io
+num2words
+decimal
